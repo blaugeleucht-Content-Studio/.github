@@ -1,0 +1,26 @@
+# 🏛️ blaugeleucht Content Studio™
+
+Welcome to the official GitHub organization of **blaugeleucht**. We are a global independent content studio dedicated to crafting immersive digital experiences through the synergy of advanced code, visual arts, and sound architecture.
+
+---
+
+### 🛠️ Tech Stack & Ecosystem
+* **Game Engine:** Unity
+* **Programming:** C# (Primary), Python
+* **3D & Visual Arts:** Blender, GIMP
+* **Audio Architecture:** Audacity, LMMS
+* **Workflow & Cloud:** GitHub, Google Services Ecosystem
+
+---
+
+### 🌐 Connect With Our Ecosystem
+[![Linktree](https://img.shields.io/badge/Linktree-000?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/blaugeleucht)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/blaugeleucht/)
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/blaugeleucht)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/nzPAdpxtFU)
+[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/blaugeleucht)
+[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://www.pinterest.com/blaugeleucht/)
+
+---
+
+> *"Transforming digital art into immersive reality for a global audience."*
